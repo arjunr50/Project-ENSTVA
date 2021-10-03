@@ -1,8 +1,8 @@
 # Project-ENSTVA
 ## _A Tool for Enumeration_
 ENSTVA is a web-site sub-path enumerator. It can be used to with websites involving alphanumeric combinations as sub-paths. It records the URL's which does'nt involves redirecton.
-![ENSTVA](https://drive.google.com/file/d/15ySoOapXOcBoU0paYwXzlKNEHuEyAxlu/view)
-![ENSTVA](https://drive.google.com/file/d/1hASu0II5Dbw63U6Gz6LS7TMOxpPQIxrY/view)
+![ENSTVA](https://drive.google.com/uc?export=view&id=15ySoOapXOcBoU0paYwXzlKNEHuEyAxlu)
+![ENSTVA](https://drive.google.com/uc?export=view&id=1hASu0II5Dbw63U6Gz6LS7TMOxpPQIxrY)
 
 ## Features
 
